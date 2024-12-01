@@ -119,7 +119,7 @@ Please keep your presentation to no more than 5 minutes. **You will be asked to 
 
 ## Submission Requirements
 
-Since this is a group project, only one member of the group should click the <span style="background-color:green;color:white;">Use as template</span> button to copy the repo to his/her GitHub account.  Add the other members as collaborators.  This allows all member to **clone** the templated repo to their laptop. Make sure to **add** <span style="color:blue;">mrasamny@desu.edu</span> as a collaborator on the group repo. 
+Since this is a group project, only one group memmer should click the <span style="background-color:green;color:white;">Use as template</span> button to copy the repo to his/her GitHub account.  Add the other members as collaborators.  This allows all member to **clone** the templated repo to their laptop. Make sure to **add** <span style="color:blue;">mrasamny@desu.edu</span> as a collaborator on the group repo. 
 
 Each member of the group should select one of the four methods to implement.  The repo should have evidence of feature branch submission and pull requests for each member of the group.  Since you will be working on the same file, conflicts will inevitably occur.  You should become familiar with how to resolve these conflicts.  **As a precaution, DO NOT delete any local feature branches**, as you may need them should an error in conflict resolution occur on the main branch on GitHub.
 
